@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "QuiltdritsEmpire.aternos.me:26038",
+    "ip": "QuiltdritsEmpire.aternos.me",
     "port": 26038,
     "version": "",
     "try-creative": false
