@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "QuildritsAFKbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "QuiltdritsEmpire.aternos.me:26038",
+    "port": 26038,
     "version": "",
     "try-creative": false
   },
